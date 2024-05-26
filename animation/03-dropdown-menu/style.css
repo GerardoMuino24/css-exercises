@@ -29,4 +29,10 @@ ul.dropdown-menu li:hover {
   display: block;
 }
 
+/*
+.visible {
+  animation: expand 800ms ease-in-out;
+}
+
+*/
 

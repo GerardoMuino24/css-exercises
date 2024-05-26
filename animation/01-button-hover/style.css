@@ -17,3 +17,16 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
+button:hover{
+
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+
+
+}

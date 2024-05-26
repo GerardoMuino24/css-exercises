@@ -61,3 +61,13 @@ button {
 .backdrop.show {
   opacity: 30%;
 }
+
+.popup-modal {
+  
+  transform: translate(-50%, -300%);
+  transition: transform 0.6s ease-in-out, opacity 0.6s ease;
+}
+
+.popup-modal.show {
+  transform: translate(-50%, -70%);
+}

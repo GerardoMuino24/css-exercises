@@ -1,0 +1,25 @@
+p{
+
+	background-color: lightpink;
+	font-family: verdana;
+	font-weight: bold;
+}
+
+#font-blue{
+
+	color: blue;
+	font-weight: bold;
+	font-size: 36px;
+}
+
+p#font-size{
+
+	font-size: 24px;
+}
+
+#background-ligth-green{
+
+	background-color: lightgreen;
+	font-size: 24px;
+	font-weight: bold;
+}
